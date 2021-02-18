@@ -2,6 +2,8 @@
 Gameport-USB adapter based on STM32F1 blue pill
 
 
+### WORK IN PROGRESS, NOT YET USABLE
+
 
 ## Description
 
